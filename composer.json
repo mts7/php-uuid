@@ -4,7 +4,7 @@
   "minimum-stability": "stable",
   "license": "MIT",
   "require-dev": {
-    "mts7/php-code-quality": "^0.1.15",
+    "mts7/php-code-quality": "^0.1.16",
     "phpunit/phpunit": "^10",
     "roave/security-advisories": "dev-latest"
   },
